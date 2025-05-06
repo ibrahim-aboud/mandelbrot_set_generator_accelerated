@@ -1,2 +1,2 @@
 # mandelbrot_set_generator_accelerated
-Algorithm for rendering the Mandelbrot set
+Experimenting with fractal generation, this time rendering a mandelbrot set, since the generation algorithm is parallelizable, let's use CUDA to accelerate it as well.
